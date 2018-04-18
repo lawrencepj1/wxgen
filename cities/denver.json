@@ -1,0 +1,17 @@
+{
+    "name":     "Denver",
+    "state":    "CO",
+    "high":     {
+        "avg":  17.5,
+        "std":  5.5
+    },
+    "low":      {
+        "avg":  2.3,
+        "std":  5.5
+    },
+    "precip":   {
+        "yamt": 515.0,
+        "std":  10.0,
+        "days": 62.0
+    }
+}
